@@ -1,0 +1,12 @@
+{
+    "name": "Pocker News",
+    "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance"
+    ],
+    "dockerFile": "Dockerfile",
+    "settings": {
+        "python.analysis.completeFunctionParens": true,
+        "python.languageServer": "Pylance",
+    }
+}
